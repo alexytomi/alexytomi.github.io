@@ -1,6 +1,5 @@
 # File: .github/workflows/publish.yml
 name: Refresh
-
 on:
   workflow_dispatch:
 jobs:
