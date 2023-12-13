@@ -1,5 +1,5 @@
 # File: .github/workflows/publish.yml
-name: Refresh
+name: Refresh gh-page
 on:
   workflow_dispatch:
 jobs:
